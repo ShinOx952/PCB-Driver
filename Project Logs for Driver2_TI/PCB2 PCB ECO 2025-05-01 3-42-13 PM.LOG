@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP_NPO-1206_MTC New Footprint=CAPC3216X94N
+Change Component Footprint: Designator=C14 Old Footprint=CAP_NPO-1206_MTC New Footprint=CAPC3216X94N
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_NPO-1206_MTC"; UniqueID = "\ROKVLMKS" ("\ROKVLMKS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KYOCERA AVX Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "12061A471JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3216 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP_NPO-1206_MTC"; UniqueID = "\RPKKFNPR" ("\RPKKFNPR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KYOCERA AVX Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "12061A471JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3216 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=E_S1 Pin=E_S1-01
+Removed Pin From Net: NetName=E_S2 Pin=E_S2-01
+Removed Pin From Net: NetName=G_S1 Pin=G_S1-01
+Removed Pin From Net: NetName=G_S2 Pin=G_S2-01
+Removed Pin From Net: NetName=NetD5_1 Pin=S2-01
+Removed Pin From Net: NetName=NetR7_1 Pin=TP1-01
+Change Component Designator: OldDesignator=E_S1 NewDesignator=J?
+Change Component Designator: OldDesignator=E_S2 NewDesignator=J?
+Change Component Designator: OldDesignator=G_S1 NewDesignator=J?
+Change Component Designator: OldDesignator=G_S2 NewDesignator=J?
+Change Component Designator: OldDesignator=S2 NewDesignator=J?
+Change Component Designator: OldDesignator=TP1 NewDesignator=J?
+Added Component: Designator=E_S1(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=E_S2(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=G_S1(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=G_S2(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTMM-101-05-G-S-225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E_S1 Pin=E_S1-01
+Added Pin To Net: NetName=E_S2 Pin=E_S2-01
+Added Pin To Net: NetName=G_S1 Pin=G_S1-01
+Added Pin To Net: NetName=G_S2 Pin=G_S2-01
+Added Pin To Net: NetName=NetD5_1 Pin=S2-01
+Added Pin To Net: NetName=NetR7_1 Pin=TP1-01

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_S1 Pin=C1-1
+Removed Pin From Net: NetName=VEE_S1 Pin=C1-2
+Removed Pin From Net: NetName=VCC_S2 Pin=C12-1
+Removed Pin From Net: NetName=VEE_S2 Pin=C12-2

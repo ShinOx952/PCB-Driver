@@ -1,0 +1,12 @@
+Added Component: Designator=C1(CAPAE430X550N)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPAE430X550N)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_S1 Pin=C1-1
+Added Pin To Net: NetName=VEE_S1 Pin=C1-2
+Added Pin To Net: NetName=VCC_S2 Pin=C12-1
+Added Pin To Net: NetName=VEE_S2 Pin=C12-2

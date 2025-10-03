@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND_5VCC Pin=U6-11
+Removed Pin From Net: NetName=GND_5VCC Pin=U6-13
+Removed Pin From Net: NetName=RS1 Pin=U8-1
+Removed Pin From Net: NetName=RS2n Pin=U8-3
+Removed Pin From Net: NetName=RS1n Pin=U9-1
+Removed Pin From Net: NetName=RS2 Pin=U9-3
+Change Component Footprint: Designator=U6 Old Footprint=SOIC127P600X175-14N New Footprint=D14
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOIC127P600X175-14N"; UniqueID = "\SZKEDNEI" ("\SZKEDNEI")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS2n Pin=U6-11
+Added Pin To Net: NetName=RS1n Pin=U6-13
+Added Pin To Net: NetName=RS1n Pin=U8-1
+Added Pin To Net: NetName=RS2n Pin=U9-3
+Added Pin To Net: NetName=RS1n2 Pin=U6-12
+Added Pin To Net: NetName=RS1n2 Pin=U9-1
+Added Net: Name=RS1n2
+Added Pin To Net: NetName=RS2n2 Pin=U6-10
+Added Pin To Net: NetName=RS2n2 Pin=U8-3
+Added Net: Name=RS2n2

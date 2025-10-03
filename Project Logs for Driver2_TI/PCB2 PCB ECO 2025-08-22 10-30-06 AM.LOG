@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetD5_1 Pin=R6-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R12-2
+Removed Pin From Net: NetName=NetD5_1 Pin=U2-4
+Removed Pin From Net: NetName=NetD6_1 Pin=U4-4
+Change Component Description : Designator=R6 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Change Component Description : Designator=R12 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Added Component: Designator=D?(LED_KP-2012_KNB)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KP-2012SGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED Indication"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_ERJS08F2201V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS08F2201V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD5_1 Pin=R6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R12-1
+Added Pin To Net: NetName=NetD5_1 Pin=U6-1
+Added Pin To Net: NetName=NetD6_1 Pin=U6-3
+Change Net Name : Old Net Name=NetD5_1 New Net Name=RS1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=RS2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-4
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U4-4
+Added Net: Name=NetR12_2

@@ -1,0 +1,4 @@
+Added Component: Designator=C?(CAPAE430X550N)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"

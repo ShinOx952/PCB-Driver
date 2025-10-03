@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=E_S2 Old Footprint=TMS-101-YY-XX-S New Footprint=SAMTEC_TMS-101-21-G-S
+Change Component Footprint: Designator=G_S2 Old Footprint=TMS-101-YY-XX-S New Footprint=SAMTEC_TMS-101-21-G-S
+Change Component Footprint: Designator=TP1 Old Footprint=TMS-101-YY-XX-S New Footprint=SAMTEC_TMS-101-21-G-S
+Change Component Comment : Designator=E_S2 Old Comment= New Comment=TMS-101-21-G-S
+Change Component Comment : Designator=G_S2 Old Comment= New Comment=TMS-101-21-G-S
+Change Component Comment : Designator=TP1 Old Comment= New Comment=TMS-101-21-G-S
+Change component parameters: Designator = "E_S2" ("E_S2"); Footprint = "TMS-101-YY-XX-S"; UniqueID = "\PYTEDLBI" ("\PYTEDLBI")
+Change component parameters: Designator = "G_S2" ("G_S2"); Footprint = "TMS-101-YY-XX-S"; UniqueID = "\FQVFVUYI" ("\FQVFVUYI")
+Change component parameters: Designator = "TP1" ("TP1"); Footprint = "TMS-101-YY-XX-S"; UniqueID = "\LYBLDYZG" ("\LYBLDYZG")

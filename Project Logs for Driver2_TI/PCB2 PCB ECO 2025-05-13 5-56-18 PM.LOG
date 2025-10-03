@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=RS1n Pin=R1-1
+Removed Pin From Net: NetName=RS2n Pin=R8-1
+Added Pin To Net: NetName=RS1 Pin=U8-1
+Added Pin To Net: NetName=GND_5VCC Pin=U8-2
+Added Pin To Net: NetName=RS2n Pin=U8-3
+Added Pin To Net: NetName=+5VCC Pin=U8-5
+Added Pin To Net: NetName=+5VCC Pin=U8-6
+Added Pin To Net: NetName=RS1n Pin=U9-1
+Added Pin To Net: NetName=GND_5VCC Pin=U9-2
+Added Pin To Net: NetName=RS2 Pin=U9-3
+Added Pin To Net: NetName=+5VCC Pin=U9-5
+Added Pin To Net: NetName=+5VCC Pin=U9-6
+Added Pin To Net: NetName=RS3 Pin=R1-1
+Added Pin To Net: NetName=RS3 Pin=U8-4
+Added Net: Name=RS3
+Added Pin To Net: NetName=RS4 Pin=R8-1
+Added Pin To Net: NetName=RS4 Pin=U9-4
+Added Net: Name=RS4

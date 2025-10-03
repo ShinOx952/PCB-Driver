@@ -1,0 +1,42 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Driver_TI - Copy\Driver2_TI\PCB2.PcbDoc
+Date         : 2025-09-21
+Time         : 9:15:53 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5VCC, Signal Layers Only, 150.7409mm
+    E_S1, Signal Layers Only, 76.8mm
+    E_S2, Signal Layers Only, 95.5128mm
+    GND_5VCC, Signal Layers Only, 194.7292mm
+    G_S1, Signal Layers Only, 44.2008mm
+    G_S2, Signal Layers Only, 56.2228mm
+    NetC14_1, Signal Layers Only, 11.2548mm
+    NetC3_1, Signal Layers Only, 10.7091mm
+    NetD1_1, Signal Layers Only, 2.7947mm
+    NetD1_2, Signal Layers Only, 2.2032mm
+    NetD3_2, Signal Layers Only, 2.8032mm
+    NetD4_1, Signal Layers Only, 2.485mm
+    NetD5_2, Signal Layers Only, 4.6mm
+    NetD7_2, Signal Layers Only, 3.1559mm
+    NetD8_1, Signal Layers Only, 2.778mm
+    NetD9_2, Signal Layers Only, 5.06mm
+    NetJ1_1, Signal Layers Only, 6.4196mm
+    NetR10_2, Signal Layers Only, 3.0466mm
+    NetR12_2, Signal Layers Only, 16.6823mm
+    NetR2_2, Signal Layers Only, 3.0766mm
+    NetR7_2, Signal Layers Only, 2.7008mm
+    NetR8_1, Signal Layers Only, 5.2176mm
+    RS1, Signal Layers Only, 42.209mm
+    RS1_IN, Signal Layers Only, 7.216mm
+    RS1n, Signal Layers Only, 15.4162mm
+    RS1n2, Signal Layers Only, 15.5801mm
+    RS2, Signal Layers Only, 37.8556mm
+    RS2_IN, Signal Layers Only, 9.4298mm
+    RS2n, Signal Layers Only, 20.268mm
+    RS2n2, Signal Layers Only, 5.7481mm
+    VCC_S1, Signal Layers Only, 55.6726mm
+    VCC_S2, Signal Layers Only, 81.0907mm
+    VEE_S1, Signal Layers Only, 66.981mm
+    VEE_S2, Signal Layers Only, 57.575mm
+count : 34

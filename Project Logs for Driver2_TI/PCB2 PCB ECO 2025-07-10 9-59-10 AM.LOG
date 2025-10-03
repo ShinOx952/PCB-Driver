@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND_5VCC Pin=D5-1
+Removed Pin From Net: NetName=GND_5VCC Pin=D6-1
+Removed Pin From Net: NetName=GND_5VCC Pin=GND_5VCC1-1
+Removed Pin From Net: NetName=+5VCC Pin=R6-1
+Removed Pin From Net: NetName=NetD5_2 Pin=R6-2
+Removed Pin From Net: NetName=+5VCC Pin=R7-1
+Removed Pin From Net: NetName=NetD6_2 Pin=R7-2
+Removed Pin From Net: NetName=RS1 Pin=U6-1
+Removed Pin From Net: NetName=RS2 Pin=U6-3
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Added Component: Designator=R6(RES_ERJS03F4701V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJS03F4701V/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS03F4701V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJS03F4701V/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_ERJS03F4701V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJS03F4701V/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJS03F4701V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJS03F4701V/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS2 Pin=D5-1
+Added Pin To Net: NetName=RS1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=R5-1
+Added Pin To Net: NetName=+5VCC Pin=R5-2
+Added Pin To Net: NetName=RS1 Pin=R6-1
+Added Pin To Net: NetName=NetD5_2 Pin=R8-1
+Added Pin To Net: NetName=+5VCC Pin=R8-2
+Added Pin To Net: NetName=RS2 Pin=R12-2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=RS1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=RS2 New Net Name=NetD5_1
+Added Pin To Net: NetName=RS1 Pin=R6-2
+Added Pin To Net: NetName=RS1 Pin=U6-1
+Added Net: Name=RS1
+Added Pin To Net: NetName=RS2 Pin=R12-1
+Added Pin To Net: NetName=RS2 Pin=U6-3
+Added Net: Name=RS2

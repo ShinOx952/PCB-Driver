@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Added Pin To Net: NetName=VCC_S2 Pin=C12-1
+Added Pin To Net: NetName=VEE_S2 Pin=C12-2

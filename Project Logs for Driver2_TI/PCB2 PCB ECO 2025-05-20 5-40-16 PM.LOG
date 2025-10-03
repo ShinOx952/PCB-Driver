@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VEE_S1 Pin=C1-N
+Removed Pin From Net: NetName=VCC_S1 Pin=C1-P
+Removed Pin From Net: NetName=VEE_S2 Pin=C12-N
+Removed Pin From Net: NetName=VCC_S2 Pin=C12-P
+Change Component Footprint: Designator=C1 Old Footprint=MCMHR63V104M4X7 New Footprint=PCAP_4x5.4-ELECT_NCA
+Change Component Footprint: Designator=C12 Old Footprint=MCMHR63V104M4X7 New Footprint=PCAP_4x5.4-ELECT_NCA
+Change Component Comment : Designator=C1 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C12 Old Comment=0.1uF New Comment=1uF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "MCMHR63V104M4X7"; UniqueID = "\UKMZXDRN" ("\UKMZXDRN")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "MCMHR63V104M4X7"; UniqueID = "\EJEWBUPN" ("\EJEWBUPN")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_S1 Pin=C1-1
+Added Pin To Net: NetName=VEE_S1 Pin=C1-2
+Added Pin To Net: NetName=VCC_S2 Pin=C12-1
+Added Pin To Net: NetName=VEE_S2 Pin=C12-2

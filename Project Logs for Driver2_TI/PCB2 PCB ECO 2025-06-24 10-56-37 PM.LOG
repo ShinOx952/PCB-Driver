@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U3 Old Footprint=MGJ2_MUR New Footprint=MGJ2D051505SC
+Change Component Comment : Designator=U3 Old Comment=MGJ2D051505SC New Comment=MGJ2D051505SC_6
+Change component parameters: Designator = "U3" ("U3"); Footprint = "MGJ2_MUR"; UniqueID = "\EAHCCKEH" ("\EAHCCKEH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MGJ2D051505SC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mgj2d051505sc/murata-power-solutions?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MGJ2D051505SC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "580-MGJ2D051505SC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGJ2D051505SC?qs=xLDY6iXSiQZoZsK%252BwBpeSQ%3D%3D"; VariantName = "[No Variations]"

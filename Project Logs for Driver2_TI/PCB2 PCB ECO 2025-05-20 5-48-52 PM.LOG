@@ -1,0 +1,4 @@
+Added Component: Designator=C?(PCAP_4x5.4-ELECT_NCA)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"

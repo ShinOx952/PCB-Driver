@@ -1,0 +1,6 @@
+Change Component Description : Designator=R7 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Change Component Description : Designator=R12 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Added Component: Designator=U?(SOIC127P860X175-14M)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"

@@ -1,0 +1,4 @@
+Added Component: Designator=U?(MGJ2_MUR)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"

@@ -1,0 +1,9 @@
+Added Component: Designator=J1(PHOENIX_1725656)
+Added Component: Designator=J2(PHOENIX_1725656)
+Added Component: Designator=J3(PHOENIX_1725656)
+Added Pin To Net: NetName=GND_5VCC Pin=J1-1
+Added Pin To Net: NetName=NetD1_2 Pin=J1-2
+Added Pin To Net: NetName=G_S1 Pin=J2-1
+Added Pin To Net: NetName=E_S1 Pin=J2-2
+Added Pin To Net: NetName=G_S2 Pin=J3-1
+Added Pin To Net: NetName=E_S2 Pin=J3-2

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=G_S1 Old Footprint=TMS-101-YY-XX-S New Footprint=TMS
+Change Component Comment : Designator=G_S1 Old Comment= New Comment=G-S?
+Change component parameters: Designator = "G_S1" ("G_S1"); Footprint = "TMS-101-YY-XX-S"; UniqueID = "\MDVEEGHE" ("\MDVEEGHE")

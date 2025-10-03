@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=E_S1 Pin=TP1-1
+Added Component: Designator=R5(RESAD2230W75L1750D650)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRCW1206510RFKEA/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRCW1206510RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW1206510RFKEA/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E_S1 Pin=R5-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=TP1-1
+Added Net: Name=NetR5_1

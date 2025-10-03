@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R2 Old Footprint=RES_MC1206_MTC New Footprint=RESC6331X70N
+Change Component Footprint: Designator=R9 Old Footprint=RES_MC1206_MTC New Footprint=RESC6331X70N
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_MC1206_MTC"; UniqueID = "\OJXIWEUI" ("\OJXIWEUI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRCW251210R0FKEGHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "6331 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_MC1206_MTC"; UniqueID = "\URYVXQJD" ("\URYVXQJD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRCW251210R0FKEGHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "6331 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

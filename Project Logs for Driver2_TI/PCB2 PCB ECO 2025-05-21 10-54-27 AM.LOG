@@ -1,0 +1,4 @@
+Added Component: Designator=R?(RESC6331X70N)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"

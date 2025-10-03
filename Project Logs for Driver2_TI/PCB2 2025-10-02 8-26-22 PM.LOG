@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RS1n Pin=U8-1
+Removed Pin From Net: NetName=RS2n2 Pin=U8-3
+Removed Pin From Net: NetName=RS1_IN Pin=U8-4
+Removed Pin From Net: NetName=RS1n2 Pin=U9-1
+Removed Pin From Net: NetName=RS2n Pin=U9-3
+Removed Pin From Net: NetName=RS2_IN Pin=U9-4
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Added Pin To Net: NetName=RS1n Pin=U8-1
+Added Pin To Net: NetName=RS2n2 Pin=U8-3
+Added Pin To Net: NetName=RS1_IN Pin=U8-4
+Added Pin To Net: NetName=RS1n2 Pin=U9-1
+Added Pin To Net: NetName=RS2n Pin=U9-3
+Added Pin To Net: NetName=RS2_IN Pin=U9-4

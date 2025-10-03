@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U3 Old Footprint=MGJ2D051505SC New Footprint=MGJ2_MUR
+Change Component Comment : Designator=U3 Old Comment=MGJ2D051505SC_6 New Comment=MGJ2D051505SC
+Change component parameters: Designator = "U3" ("U3"); Footprint = "MGJ2D051505SC"; UniqueID = "\ECWJPVKW" ("\ECWJPVKW")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=PS?(MGJ2D_7-PIN-SIP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MGJ2D241505SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mgj2d241505sc/murata-power-solutions?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://power.murata.com/data/power/ncl/kdc_mgj2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MGJ2D241505SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "580-MGJ2D241505SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGJ2D241505SC?qs=xLDY6iXSiQZSXeU7bFDLTA%3D%3D"; VariantName = "[No Variations]"
