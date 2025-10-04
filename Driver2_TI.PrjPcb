@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AKZAJUGD
 
 [Document2]
-DocumentPath=..\..\..\..\..\..\rafab\AppData\Local\Temp\History\PCB2.~(321).PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YVYGFWXH
-
-[Document3]
 DocumentPath=Driver2_TI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXJAYULS
 
-[Document4]
+[Document3]
 DocumentPath=..\..\..\..\..\rafab\Documents\8VO SEMESTRE\Diseño Fotovoltaico\SS\Altium\Curso_Archivos\Capacitores\EEUED2G470B.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,6 +115,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\..\..\..\..\rafab\AppData\Local\Temp\History\PCB2.~(321).PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YVYGFWXH
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Driver2_TI\Design Rule Check - PCB2.html
