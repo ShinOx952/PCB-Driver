@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\..\..\..\rafab\AppData\Local\Temp\History\PCB2.~(321).PcbDoc
+DocumentPath=..\..\..\..\..\..\rafab\AppData\Local\Temp\History\PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
