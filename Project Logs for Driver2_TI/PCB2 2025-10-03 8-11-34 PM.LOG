@@ -1,0 +1,11 @@
+Change Component Description : Designator=R7 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Change Component Description : Designator=R12 Old Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 New Description=RES, SMD, 4.7K ohm, 0.5W, 1%, 1206, TCR100 | Bourns CRS1206-FX-4701ELF
+Added Component: Designator=D?(DIOM4427X25M)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/ES1ALHR3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ES1ALHR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "821-ES1ALHR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiwan-Semiconductor/ES1ALHR3?qs=70cth9uAySfs%2F8RIhd19cA%3D%3D"; VariantName = "[No Variations]"
