@@ -1,12 +1,36 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [PCB2.PcbDoc]
-   Generated File[PCB2.TXT]
-   Generated File[PCB2.LDP]
-   Generated File[PCB2.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:52:32 AM On 2025-10-29
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [PCB2.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[PCB2.REP]
 
 
-Files Generated   : 3
+Files Generated   : 23
 Documents Printed : 0
 
-Finished Output Generation At 1:56:45 PM On 2025-07-14
+Finished Output Generation At 11:52:35 AM On 2025-10-29
