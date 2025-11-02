@@ -1,0 +1,312 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 6 15.40000222 20.2200002 180 N D2 ES1ALHR3 ;0=1,1=2.5000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/1/ES1ALHR3.pdf'
+PRP Geometry.Height '1.43mm'
+PRP Manufacturer_Name 'Taiwan Semiconductor'
+PRP Manufacturer_Part_Number 'ES1ALHR3'
+PRP Mouser_Part_Number '821-ES1ALHR3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Taiwan-Semiconductor/ES1ALHR3?qs=70cth9uAySfs%2F8RIhd19cA%3D%3D'
+TOP 0 17.550003 20.2200002 90 N 34 16 1
+TOP 1 13.25000398 20.2200002 90 N 2 1 2
+#
+# CMP 1
+CMP 14 7.61000256 24.93000094 0 N R1 2.2k ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF ''
+PRP MP 'ERJS08F2201V'
+PRP Package 'None'
+PRP Price 'None'
+PRP Value ''
+TOP 0 5.8850022 24.93000094 0 N 1 1 1
+TOP 1 9.33500292 24.93000094 0 N 26 0 2
+#
+# CMP 2
+CMP 10 10.61430186 22.77000018 180 N D1 LED_G ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Kingbright'
+PRP Manufacturer_Part_Number 'KP-2012SGC'
+PRP RefDes ''
+PRP Type 'LED Indication'
+TOP 0 11.78930078 22.77000018 180 N 2 0 1
+TOP 1 9.43930294 22.77000018 0 N 26 1 2
+#
+# CMP 3
+CMP 10 18.0000021 16.77569924 270 N D7 LED_G ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Kingbright'
+PRP Manufacturer_Part_Number 'KP-2012SGC'
+PRP RefDes ''
+PRP Type 'LED Indication'
+TOP 0 18.0000021 15.60070032 270 N 17 4 1
+TOP 1 18.0000021 17.95069816 90 N 22 0 2
+#
+# CMP 4
+CMP 10 18.0000021 24.02069872 90 N D3 LED_G ;0=1,1=0.0000
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Kingbright'
+PRP Manufacturer_Part_Number 'KP-2012SGC'
+PRP RefDes ''
+PRP Type 'LED Indication'
+TOP 0 18.0000021 25.19569764 90 N 15 4 1
+TOP 1 18.0000021 22.8456998 270 N 23 1 2
+#
+# CMP 5
+CMP 14 20.76000166 23.50000126 90 N R6 2.2k ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF ''
+PRP MP 'ERJS08F2201V'
+PRP Package 'None'
+PRP Price 'None'
+PRP Value ''
+TOP 0 20.76000166 25.22500162 90 N 34 15 1
+TOP 1 20.76000166 21.7750009 90 N 23 0 2
+#
+# CMP 6
+CMP 14 20.65000188 17.4300007 270 N R9 2.2k ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF ''
+PRP MP 'ERJS08F2201V'
+PRP Package 'None'
+PRP Price 'None'
+PRP Value ''
+TOP 0 20.65000188 15.70500034 270 N 34 14 1
+TOP 1 20.65000188 19.15500106 270 N 22 1 2
+#
+# CMP 7
+CMP 18 70.3798059 14.9613366 0 N E_S1 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 70.3798059 14.9613366 0 N 33 8 01
+#
+# CMP 8
+CMP 18 70.39980586 5.7213373 0 N G_S1 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 70.39980586 5.7213373 0 N 31 5 01
+#
+# CMP 9
+CMP 18 70.55000114 34.86999884 0 N G_S2 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 70.55000114 34.86999884 0 N 30 6 01
+#
+# CMP 10
+CMP 18 13.3200013 16.30000042 0 N S2 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 13.3200013 16.30000042 0 N 17 3 01
+#
+# CMP 11
+CMP 18 70.3798059 18.8713364 0 N TP1 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 70.3798059 18.8713364 0 N 10 1 01
+#
+# CMP 12
+CMP 18 70.55000114 25.3500001 0 N E_S2 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 70.55000114 25.3500001 0 N 32 8 01
+#
+# CMP 13
+CMP 18 13.3200013 25.20560618 0 N S1 MTMM-101-X-X-S-X ;0=2,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=eda'
+PRP MF 'Samtec'
+PRP MP 'MTMM-101-05-G-S-225'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTMM-101-05-G-S-225/Samtec/view-part/?ref=snap'
+PRP Value ''
+TOP 0 13.3200013 25.20560618 0 N 15 3 01
+#
+# CMP 14
+CMP 20 18.07000196 32.90000024 270 N U2 HFBR-2531Z ;0=2,1=18.8000
+PRP Check_prices 'https://www.snapeda.com/parts/HFBR-2531Z/Broadcom+Limited/view-part/?ref=eda'
+PRP MF 'Broadcom Limited'
+PRP MP 'HFBR-2531Z'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/HFBR-2531Z/Broadcom+Limited/view-part/?ref=snap'
+PRP Value ''
+TOP 0 14.26000196 36.71000024 270 N 15 2 1
+TOP 1 14.26000196 34.17000024 270 N 29 25 2
+TOP 2 14.26000196 31.63000024 270 N 34 10 3
+TOP 3 14.26000196 29.09000024 270 N 4 1 4
+TOP 4 21.88000196 29.09000024 270 N 0 2 5
+TOP 5 21.88000196 36.71000024 270 N 0 3 8
+#
+# CMP 15
+CMP 20 18.06000198 7.2200008 270 N U4 HFBR-2531Z ;0=2,1=18.8000
+PRP Check_prices 'https://www.snapeda.com/parts/HFBR-2531Z/Broadcom+Limited/view-part/?ref=eda'
+PRP MF 'Broadcom Limited'
+PRP MP 'HFBR-2531Z'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/HFBR-2531Z/Broadcom+Limited/view-part/?ref=snap'
+PRP Value ''
+TOP 0 14.25000198 11.0300008 270 N 17 2 1
+TOP 1 14.25000198 8.4900008 270 N 29 27 2
+TOP 2 14.25000198 5.9500008 270 N 34 11 3
+TOP 3 14.25000198 3.4100008 270 N 3 1 4
+TOP 4 21.87000198 3.4100008 270 N 0 7 5
+TOP 5 21.87000198 11.0300008 270 N 0 6 8
+#
+# CMP 16
+CMP 11 33.17000224 35.04000104 0 N U7 MGJ2D051505SC_6 ;0=2,1=0.0000
+PRP Arrow_Part_Number 'MGJ2D051505SC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mgj2d051505sc/murata-power-solutions?region=nac'
+PRP Datasheet_Link 'https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj2.pdf'
+PRP Height '12mm'
+PRP Manufacturer_Name 'Murata Electronics'
+PRP Manufacturer_Part_Number 'MGJ2D051505SC'
+PRP Mouser_Part_Number '580-MGJ2D051505SC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGJ2D051505SC?qs=xLDY6iXSiQZoZsK%252BwBpeSQ%3D%3D'
+TOP 0 26.5400028 37.13500066 0 N 34 9 1
+TOP 1 29.0800028 37.13500066 0 N 29 24 2
+TOP 2 36.7000028 37.13500066 0 N 11 4 5
+TOP 3 39.2400028 37.13500066 0 N 32 6 6
+TOP 4 41.7800028 37.13500066 0 N 13 4 7
+#
+# CMP 17
+CMP 12 73.65000002 27.45000098 270 N J3 Control_Signal ;0=2,1=8.6500
+TOP 0 70.55000114 28.95000052 270 N 32 7 1
+TOP 1 70.55000114 31.49000052 270 N 30 5 2
+TOP 2 73.09000114 28.95000052 270 N 0 9 empty-1
+TOP 3 73.09000114 31.49000052 270 N 0 8 empty-2
+#
+# CMP 18
+CMP 13 73.47980478 7.86133556 270 N J2 Control_Signal ;0=2,1=8.6500
+TOP 0 70.3798059 9.3613351 270 N 31 6 1
+TOP 1 70.3798059 11.9013351 270 N 33 7 2
+TOP 2 72.9198059 11.9013351 270 N 0 11 empty-1
+TOP 3 72.9198059 9.3613351 270 N 0 10 empty-2
+#
+# CMP 19
+CMP 13 2.46000016 21.00999862 90 N J1 VDC_+5 ;0=2,1=8.6500
+TOP 0 5.55999904 19.50999908 90 N 1 0 1
+TOP 1 5.55999904 16.96999908 90 N 29 26 2
+TOP 2 3.01999904 16.96999908 90 N 0 5 empty-1
+TOP 3 3.01999904 19.50999908 90 N 0 4 empty-2
+#
+# CMP 20
+CMP 11 33.25000208 15.4899995 0 N U3 MGJ2D051505SC_6 ;0=2,1=0.0000
+PRP Arrow_Part_Number 'MGJ2D051505SC'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mgj2d051505sc/murata-power-solutions?region=nac'
+PRP Datasheet_Link 'https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj2.pdf'
+PRP Height '12mm'
+PRP Manufacturer_Name 'Murata Electronics'
+PRP Manufacturer_Part_Number 'MGJ2D051505SC'
+PRP Mouser_Part_Number '580-MGJ2D051505SC'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGJ2D051505SC?qs=xLDY6iXSiQZoZsK%252BwBpeSQ%3D%3D'
+TOP 0 26.62000264 17.58499912 0 N 34 12 1
+TOP 1 29.16000264 17.58499912 0 N 29 28 2
+TOP 2 36.78000264 17.58499912 0 N 12 4 5
+TOP 3 39.32000264 17.58499912 0 N 33 9 6
+TOP 4 41.86000264 17.58499912 0 N 14 4 7
+#
+# CMP 21
+CMP 1 50.0000016 29.55000186 90 N C19 220uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'MAL215097102E3'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mal215097102e3/vishay?region=europe'
+PRP Datasheet_Link 'https://www.vishay.com/docs/28395/150crz.pdf'
+PRP Height '14.3mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'MAL215097102E3'
+PRP Mouser_Part_Number '594-MAL215097102E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097102E3?qs=qmStTZH4TznNa7zgwdGJWg%3D%3D'
+TOP 0 50.0000016 33.85000088 90 N 32 9 1
+TOP 1 50.0000016 25.25000284 90 N 11 5 2
+#
+# CMP 22
+CMP 1 61.00000246 29.55000186 270 N C17 220uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'MAL215097102E3'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mal215097102e3/vishay?region=europe'
+PRP Datasheet_Link 'https://www.vishay.com/docs/28395/150crz.pdf'
+PRP Height '14.3mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'MAL215097102E3'
+PRP Mouser_Part_Number '594-MAL215097102E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097102E3?qs=qmStTZH4TznNa7zgwdGJWg%3D%3D'
+TOP 0 61.00000246 25.25000284 270 N 13 5 1
+TOP 1 61.00000246 33.85000088 270 N 32 10 2
+#
+# CMP 23
+CMP 0 27.8400002 24.5299992 0 N C15 22uF ;0=1,1=5.4000
+PRP Check_prices 'https://www.snapeda.com/parts/EEE1HA220WP/Panasonic/view-part/?ref=eda'
+PRP Digi-Key_Part_Number 'PCE3920TR-ND'
+PRP MF 'Panasonic'
+PRP MP 'EEE1HA220WP'
+PRP Package 'RADIAL-2 Panasonic'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/EEE1HA220WP/Panasonic/view-part/?ref=snap'
+PRP Value ''
+TOP 0 25.34000012 24.5299992 0 N 34 13 1
+TOP 1 30.34000028 24.5299992 0 N 29 29 2
+#
+# CMP 24
+CMP 1 49.98000164 11.54999722 90 N C9 220uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'MAL215097102E3'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mal215097102e3/vishay?region=europe'
+PRP Datasheet_Link 'https://www.vishay.com/docs/28395/150crz.pdf'
+PRP Height '14.3mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'MAL215097102E3'
+PRP Mouser_Part_Number '594-MAL215097102E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097102E3?qs=qmStTZH4TznNa7zgwdGJWg%3D%3D'
+TOP 0 49.98000164 15.84999624 90 N 33 11 1
+TOP 1 49.98000164 7.2499982 90 N 12 5 2
+#
+# CMP 25
+CMP 1 60.9800025 11.54999722 270 N C7 220uF ;0=1,1=0.0000
+PRP Arrow_Part_Number 'MAL215097102E3'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/mal215097102e3/vishay?region=europe'
+PRP Datasheet_Link 'https://www.vishay.com/docs/28395/150crz.pdf'
+PRP Height '14.3mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'MAL215097102E3'
+PRP Mouser_Part_Number '594-MAL215097102E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097102E3?qs=qmStTZH4TznNa7zgwdGJWg%3D%3D'
+TOP 0 60.9800025 7.2499982 270 N 14 5 1
+TOP 1 60.9800025 15.84999624 270 N 33 10 2
+#
+# CMP 26
+CMP 0 27.8400002 5.99099894 0 N C5 22uF ;0=1,1=5.4000
+PRP Check_prices 'https://www.snapeda.com/parts/EEE1HA220WP/Panasonic/view-part/?ref=eda'
+PRP Digi-Key_Part_Number 'PCE3920TR-ND'
+PRP MF 'Panasonic'
+PRP MP 'EEE1HA220WP'
+PRP Package 'RADIAL-2 Panasonic'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/EEE1HA220WP/Panasonic/view-part/?ref=snap'
+PRP Value ''
+TOP 0 25.34000012 5.99099894 0 N 34 17 1
+TOP 1 30.34000028 5.99099894 0 N 29 30 2
+#

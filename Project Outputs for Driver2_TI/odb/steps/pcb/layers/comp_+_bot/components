@@ -1,0 +1,461 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 6 41.51000334 21.79999958 0 N D8 ES1ALHR3 ;0=1,1=2.5000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/1/ES1ALHR3.pdf'
+PRP Geometry.Height '1.43mm'
+PRP Manufacturer_Name 'Taiwan Semiconductor'
+PRP Manufacturer_Part_Number 'ES1ALHR3'
+PRP Mouser_Part_Number '821-ES1ALHR3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Taiwan-Semiconductor/ES1ALHR3?qs=70cth9uAySfs%2F8RIhd19cA%3D%3D'
+TOP 0 43.66000412 21.79999958 270 N 21 1 1
+TOP 1 39.3600051 21.79999958 270 N 27 1 2
+#
+# CMP 1
+CMP 6 41.49000084 3.05999896 0 N D4 ES1ALHR3 ;0=1,1=2.5000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/1/ES1ALHR3.pdf'
+PRP Geometry.Height '1.43mm'
+PRP Manufacturer_Name 'Taiwan Semiconductor'
+PRP Manufacturer_Part_Number 'ES1ALHR3'
+PRP Mouser_Part_Number '821-ES1ALHR3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Taiwan-Semiconductor/ES1ALHR3?qs=70cth9uAySfs%2F8RIhd19cA%3D%3D'
+TOP 0 43.64000162 3.05999896 270 N 25 1 1
+TOP 1 39.3400026 3.05999896 270 N 28 2 2
+#
+# CMP 2
+CMP 15 11.98000144 27.48000092 270 N R7 4.7K ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/CRS1206-FX-4701ELF/Bourns/view-part/?ref=eda'
+PRP MF 'Bourns'
+PRP MP 'CRS1206-FX-4701ELF'
+PRP Package '3116 Bourns'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRS1206-FX-4701ELF/Bourns/view-part/?ref=snap'
+PRP Value ''
+TOP 0 11.98000144 26.05000124 270 N 15 0 1
+TOP 1 11.98000144 28.9100006 270 N 4 0 2
+#
+# CMP 3
+CMP 15 12.59000276 19.94000076 90 N R12 4.7K ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/CRS1206-FX-4701ELF/Bourns/view-part/?ref=eda'
+PRP MF 'Bourns'
+PRP MP 'CRS1206-FX-4701ELF'
+PRP Package '3116 Bourns'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRS1206-FX-4701ELF/Bourns/view-part/?ref=snap'
+PRP Value ''
+TOP 0 12.59000276 21.37000044 90 N 17 0 1
+TOP 1 12.59000276 18.51000108 90 N 3 0 2
+#
+# CMP 4
+CMP 17 64.25000104 14.72999594 90 N R8 1M ;0=1,1=0.0000
+PRP Mfr_Name 'KOA Speer'
+PRP RefDes ''
+PRP Type ''
+TOP 0 64.25000104 17.71999504 90 N 10 0 1
+TOP 1 64.25000104 11.73999684 90 N 33 2 2
+#
+# CMP 5
+CMP 2 49.25000056 14.96660456 90 N C1 1uF ;0=1,1=0.0000
+PRP Mfr_Name 'Nichicon'
+PRP RefDes ''
+PRP Type ''
+TOP 0 49.25000056 16.69160492 90 N 14 0 1
+TOP 1 49.25000056 13.2416042 90 N 12 0 2
+#
+# CMP 6
+CMP 2 49.17000072 34.6433013 90 N C12 1uF ;0=1,1=0.0000
+PRP Mfr_Name 'Nichicon'
+PRP RefDes ''
+PRP Type ''
+TOP 0 49.17000072 36.36830166 90 N 13 0 1
+TOP 1 49.17000072 32.91830094 90 N 11 0 2
+#
+# CMP 7
+CMP 19 18.24000162 26.9199995 270 N U9 SN74LVC1G11DBVR ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/SN74LVC1G11DBVR/Texas+Instruments/view-part/?ref=eda'
+PRP MF 'Texas Instruments'
+PRP MP 'SN74LVC1G11DBVR'
+PRP Package 'SOT-23-6 Texas Instruments'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SN74LVC1G11DBVR/Texas+Instruments/view-part/?ref=snap'
+PRP Value ''
+TOP 0 19.19000226 25.66500074 270 N 6 1 1
+TOP 1 18.24000162 25.66500074 270 N 29 22 2
+TOP 2 17.29000098 25.66500074 270 N 16 2 3
+TOP 3 17.29000098 28.17499826 270 N 8 1 4
+TOP 4 18.24000162 28.17499826 270 N 34 7 5
+TOP 5 19.19000226 28.17499826 270 N 34 6 6
+#
+# CMP 8
+CMP 19 18.2500016 12.45500176 90 N U8 SN74LVC1G11DBVR ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/SN74LVC1G11DBVR/Texas+Instruments/view-part/?ref=eda'
+PRP MF 'Texas Instruments'
+PRP MP 'SN74LVC1G11DBVR'
+PRP Package 'SOT-23-6 Texas Instruments'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SN74LVC1G11DBVR/Texas+Instruments/view-part/?ref=snap'
+PRP Value ''
+TOP 0 17.30000096 13.71000052 90 N 18 0 1
+TOP 1 18.2500016 13.71000052 90 N 29 10 2
+TOP 2 19.20000224 13.71000052 90 N 5 0 3
+TOP 3 19.20000224 11.200003 90 N 9 1 4
+TOP 4 18.2500016 11.200003 90 N 34 2 5
+TOP 5 17.30000096 11.200003 90 N 34 1 6
+#
+# CMP 9
+CMP 8 32.28000148 9.49000388 180 N U1 ACPL-3130-360E ;0=1,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA20/76560.pdf'
+PRP Height '4.7mm'
+PRP Manufacturer_Name 'Avago Technologies'
+PRP Manufacturer_Part_Number 'ACPL-3130-360E'
+PRP Mouser_Part_Number '630-ACPL-3130-360E'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-3130-360E?qs=RuhU64sK2%252BvV1O6%252BbM9CBg%3D%3D'
+TOP 0 28.3100018 5.68000388 0 N 29 12 1
+TOP 1 28.3100018 8.22000388 0 N 7 1 2
+TOP 2 28.3100018 10.76000388 0 N 29 14 3
+TOP 3 28.3100018 13.30000388 0 N 29 13 4
+TOP 4 36.25000116 13.30000388 0 N 12 3 5
+TOP 5 36.25000116 10.76000388 0 N 28 3 6
+TOP 6 36.25000116 8.22000388 0 N 28 4 7
+TOP 7 36.25000116 5.68000388 0 N 14 3 8
+#
+# CMP 10
+CMP 5 19.10119116 19.2499996 0 N U6 SN74LS04D ;0=1,1=0.0000
+PRP Mfr_Name 'Texas Instruments'
+PRP RefDes 'RefDes'
+PRP Type 'Type'
+TOP 0 21.56499116 23.0599996 180 N 15 1 1
+TOP 1 21.56499116 21.7899996 180 N 18 2 2
+TOP 2 21.56499116 20.5199996 180 N 17 1 3
+TOP 3 21.56499116 19.2499996 180 N 16 1 4
+TOP 4 21.56499116 17.9799996 180 N 29 19 5
+TOP 5 21.56499116 16.7099996 180 N 0 0 6
+TOP 6 21.56499116 15.4399996 180 N 29 20 7
+TOP 7 16.63739116 15.4399996 180 N 0 1 8
+TOP 8 16.63739116 16.7099996 180 N 29 21 9
+TOP 9 16.63739116 17.9799996 180 N 5 1 10
+TOP 10 16.63739116 19.2499996 180 N 16 0 11
+TOP 11 16.63739116 20.5199996 180 N 6 0 12
+TOP 12 16.63739116 21.7899996 180 N 18 1 13
+TOP 13 16.63739116 23.0599996 180 N 34 5 14
+#
+# CMP 11
+CMP 8 32.16999154 28.36999914 180 N U5 ACPL-3130-360E ;0=1,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA20/76560.pdf'
+PRP Height '4.7mm'
+PRP Manufacturer_Name 'Avago Technologies'
+PRP Manufacturer_Part_Number 'ACPL-3130-360E'
+PRP Mouser_Part_Number '630-ACPL-3130-360E'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-3130-360E?qs=RuhU64sK2%252BvV1O6%252BbM9CBg%3D%3D'
+TOP 0 28.19999186 24.55999914 0 N 29 17 1
+TOP 1 28.19999186 27.09999914 0 N 19 0 2
+TOP 2 28.19999186 29.63999914 0 N 29 16 3
+TOP 3 28.19999186 32.17999914 0 N 29 18 4
+TOP 4 36.13999122 32.17999914 0 N 11 3 5
+TOP 5 36.13999122 29.63999914 0 N 27 3 6
+TOP 6 36.13999122 27.09999914 0 N 27 4 7
+TOP 7 36.13999122 24.55999914 0 N 13 3 8
+#
+# CMP 12
+CMP 16 49.17000072 24.64000152 0 N R14 47K ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CRCW120647K0FKEA'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/crcw120647k0fkea/vishay'
+PRP Datasheet_Link 'http://www.vishay.com/docs/20035/dcrcwe3.pdf'
+PRP Height '0.6mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW120647K0FKEA'
+PRP Mouser_Part_Number '71-CRCW1206-47K-E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW120647K0FKEA?qs=9sFvXT%252Bien1tefUS4L1XFw%3D%3D'
+TOP 0 50.67000026 24.64000152 270 N 32 5 1
+TOP 1 47.67000118 24.64000152 270 N 30 1 2
+#
+# CMP 13
+CMP 9 48.81000144 21.86999944 180 N R13 29R ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ERJ-8ENF30R0V'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/erj-8enf30r0v/panasonic?region=nac'
+PRP Datasheet_Link 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf'
+PRP Height '0.7mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-8ENF30R0V'
+PRP Mouser_Part_Number '667-ERJ-8ENF30R0V'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-8ENF30R0V?qs=8%252BG0TiN%2FgVqUsQIC4%252BVXug%3D%3D'
+TOP 0 47.08500108 21.86999944 90 N 21 0 1
+TOP 1 50.5350018 21.86999944 90 N 30 2 2
+#
+# CMP 14
+CMP 17 41.58500446 28.19499822 180 N R11 10R ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=eda'
+PRP MF 'Vishay'
+PRP MP 'CRCW251210R0FKEGHP'
+PRP Package '6331 Vishay'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=snap'
+PRP Value ''
+TOP 0 38.59500536 28.19499822 0 N 27 0 1
+TOP 1 44.57500356 28.19499822 0 N 30 3 2
+#
+# CMP 15
+CMP 16 25.170003 28.6399986 90 N R10 510R ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CRCW1206510RFKEA'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/crcw1206510rfkea/vishay?region=nac'
+PRP Datasheet_Link 'http://www.vishay.com/docs/20035/dcrcwe3.pdf'
+PRP Height '0.6mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW1206510RFKEA'
+PRP Mouser_Part_Number '71-CRCW1206-510-E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW1206510RFKEA?qs=ZY%2FA15UmqnAPhzXgP9t8Ag%3D%3D'
+TOP 0 25.170003 30.13999814 180 N 8 0 1
+TOP 1 25.170003 27.13999906 180 N 19 1 2
+#
+# CMP 16
+CMP 16 49.25000056 6.01500194 0 N R5 47K ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CRCW120647K0FKEA'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/crcw120647k0fkea/vishay'
+PRP Datasheet_Link 'http://www.vishay.com/docs/20035/dcrcwe3.pdf'
+PRP Height '0.6mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW120647K0FKEA'
+PRP Mouser_Part_Number '71-CRCW1206-47K-E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW120647K0FKEA?qs=9sFvXT%252Bien1tefUS4L1XFw%3D%3D'
+TOP 0 50.7500001 6.01500194 270 N 33 4 1
+TOP 1 47.75000102 6.01500194 270 N 31 1 2
+#
+# CMP 17
+CMP 9 49.1500033 3.00999906 180 N R4 29R ;0=1,1=0.0000
+PRP Arrow_Part_Number 'ERJ-8ENF30R0V'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/erj-8enf30r0v/panasonic?region=nac'
+PRP Datasheet_Link 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf'
+PRP Height '0.7mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'ERJ-8ENF30R0V'
+PRP Mouser_Part_Number '667-ERJ-8ENF30R0V'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-8ENF30R0V?qs=8%252BG0TiN%2FgVqUsQIC4%252BVXug%3D%3D'
+TOP 0 47.42500294 3.00999906 90 N 25 0 1
+TOP 1 50.87500366 3.00999906 90 N 31 2 2
+#
+# CMP 18
+CMP 17 41.66499922 9.31500296 180 N R3 10R ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=eda'
+PRP MF 'Vishay'
+PRP MP 'CRCW251210R0FKEGHP'
+PRP Package '6331 Vishay'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CRCW251210R0FKEGHP/Vishay/view-part/?ref=snap'
+PRP Value ''
+TOP 0 38.67500012 9.31500296 0 N 28 0 1
+TOP 1 44.65499832 9.31500296 0 N 31 3 2
+#
+# CMP 19
+CMP 16 25.25000284 9.6800035 90 N R2 510R ;0=1,1=0.0000
+PRP Arrow_Part_Number 'CRCW1206510RFKEA'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/crcw1206510rfkea/vishay?region=nac'
+PRP Datasheet_Link 'http://www.vishay.com/docs/20035/dcrcwe3.pdf'
+PRP Height '0.6mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'CRCW1206510RFKEA'
+PRP Mouser_Part_Number '71-CRCW1206-510-E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW1206510RFKEA?qs=ZY%2FA15UmqnAPhzXgP9t8Ag%3D%3D'
+TOP 0 25.25000284 11.18000304 180 N 9 0 1
+TOP 1 25.25000284 8.18000396 180 N 7 0 2
+#
+# CMP 20
+CMP 7 56.17000196 27.16500028 180 N D10 DIODO_ZENER1 ;0=1,1=0.0000
+PRP Arrow_Part_Number '1SMB5931BT3G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1smb5931bt3g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/1SMB5913BT3-D.PDF'
+PRP Height '2.47mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number '1SMB5931BT3G'
+PRP Mouser_Part_Number '863-1SMB5931BT3G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/1SMB5931BT3G?qs=vLkC5FC1VN903PRAv1AUyg%3D%3D'
+TOP 0 53.97000128 27.16500028 0 N 32 4 1
+TOP 1 58.37000264 27.16500028 0 N 20 0 2
+#
+# CMP 21
+CMP 7 56.16999688 22.10500278 180 N D9 DIODO_ZENER1 ;0=1,1=0.0000
+PRP Arrow_Part_Number '1SMB5931BT3G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1smb5931bt3g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/1SMB5913BT3-D.PDF'
+PRP Height '2.47mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number '1SMB5931BT3G'
+PRP Mouser_Part_Number '863-1SMB5931BT3G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/1SMB5931BT3G?qs=vLkC5FC1VN903PRAv1AUyg%3D%3D'
+TOP 0 53.9699962 22.10500278 0 N 30 0 1
+TOP 1 58.36999756 22.10500278 0 N 20 1 2
+#
+# CMP 22
+CMP 7 56.2500018 9.6899984 180 N D6 DIODO_ZENER1 ;0=1,1=0.0000
+PRP Arrow_Part_Number '1SMB5931BT3G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1smb5931bt3g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/1SMB5913BT3-D.PDF'
+PRP Height '2.47mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number '1SMB5931BT3G'
+PRP Mouser_Part_Number '863-1SMB5931BT3G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/1SMB5931BT3G?qs=vLkC5FC1VN903PRAv1AUyg%3D%3D'
+TOP 0 54.05000112 9.6899984 0 N 33 3 1
+TOP 1 58.45000248 9.6899984 0 N 24 0 2
+#
+# CMP 23
+CMP 7 56.2500018 5.08999998 180 N D5 DIODO_ZENER1 ;0=1,1=0.0000
+PRP Arrow_Part_Number '1SMB5931BT3G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1smb5931bt3g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/1SMB5913BT3-D.PDF'
+PRP Height '2.47mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number '1SMB5931BT3G'
+PRP Mouser_Part_Number '863-1SMB5931BT3G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/1SMB5931BT3G?qs=vLkC5FC1VN903PRAv1AUyg%3D%3D'
+TOP 0 54.05000112 5.08999998 0 N 31 0 1
+TOP 1 58.45000248 5.08999998 0 N 24 1 2
+#
+# CMP 24
+CMP 3 36.37000092 35.14000084 180 N C20 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 34.87140092 35.14000084 90 N 11 1 1
+TOP 1 37.86860092 35.14000084 90 N 32 3 2
+#
+# CMP 25
+CMP 3 42.17000202 35.14000084 180 N C18 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 40.67140202 35.14000084 90 N 32 2 1
+TOP 1 43.66860202 35.14000084 90 N 13 1 2
+#
+# CMP 26
+CMP 3 27.77000288 35.14000084 0 N C16 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 29.26860288 35.14000084 270 N 29 15 1
+TOP 1 26.27140288 35.14000084 270 N 34 4 2
+#
+# CMP 27
+CMP 4 39.99500256 24.64000152 180 N C14 470pF ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=eda'
+PRP MF 'KYOCERA AVX Components'
+PRP MP '12061A471JAT2A'
+PRP Package '3216 AVX'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=snap'
+PRP Value ''
+TOP 0 38.5200017 24.64000152 0 N 27 2 1
+TOP 1 41.47000342 24.64000152 0 N 30 4 2
+#
+# CMP 28
+CMP 3 40.17000094 32.64000076 180 N C13 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 38.67140094 32.64000076 90 N 11 2 1
+TOP 1 41.66860094 32.64000076 90 N 13 2 2
+#
+# CMP 29
+CMP 3 17.46000318 7.19160106 270 N C11 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 17.46000318 5.69300106 0 N 34 0 1
+TOP 1 17.46000318 8.69020106 0 N 29 9 2
+#
+# CMP 30
+CMP 3 36.45000076 15.4899995 180 N C10 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 34.95140076 15.4899995 90 N 12 1 1
+TOP 1 37.94860076 15.4899995 90 N 33 6 2
+#
+# CMP 31
+CMP 3 41.74860078 15.4899995 180 N C8 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 40.25000078 15.4899995 90 N 33 5 1
+TOP 1 43.24720078 15.4899995 90 N 14 1 2
+#
+# CMP 32
+CMP 3 27.75410248 15.4899995 0 N C6 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 29.25270248 15.4899995 270 N 29 11 1
+TOP 1 26.25550248 15.4899995 270 N 34 3 2
+#
+# CMP 33
+CMP 3 17.46000318 32.95000014 270 N C4 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 17.46000318 31.45140014 0 N 34 8 1
+TOP 1 17.46000318 34.44860014 0 N 29 23 2
+#
+# CMP 34
+CMP 4 40.11000614 6.00500196 180 N C3 470pF ;0=1,1=0.0000
+PRP Check_prices 'https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=eda'
+PRP MF 'KYOCERA AVX Components'
+PRP MP '12061A471JAT2A'
+PRP Package '3216 AVX'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/12061A471JAT2A/Kyocera/view-part/?ref=snap'
+PRP Value ''
+TOP 0 38.63500528 6.00500196 0 N 28 1 1
+TOP 1 41.585007 6.00500196 0 N 31 4 2
+#
+# CMP 35
+CMP 3 40.25000078 12.96330402 180 N C2 100nF ;0=1,1=0.0000
+PRP Arrow_Part_Number '12063C104MAT2A'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/12063c104mat2a/avx'
+PRP Datasheet_Link ''
+PRP Manufacturer_Name 'Kyocera AVX'
+PRP Manufacturer_Part_Number '12063C104MAT2A'
+PRP Mouser_Part_Number '581-12063C104MAT2A'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/12063C104MAT2A?qs=m0JgOP0RQqUryqdkhb8UmQ%3D%3D'
+TOP 0 38.75140078 12.96330402 90 N 12 2 1
+TOP 1 41.74860078 12.96330402 90 N 14 2 2
+#
