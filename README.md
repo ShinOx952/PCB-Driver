@@ -1,4 +1,4 @@
-# Diseño de Driver de Semiconductor de Potencia (Altium Designer) 
+# Diseño de Driver de Potencia (Altium Designer) 
 
 **Estado del Proyecto:** Diseño completado. El informe técnico completo está finalizado y disponible en este repositorio.
 
@@ -16,7 +16,7 @@
 
 ## 2. Resumen del Proyecto
 
-Este repositorio contiene todos los archivos de diseño y la documentación técnica del rediseño y optimización de un **driver de semiconductor de potencia**. El proyecto fue desarrollado íntegramente en **Altium Designer** con el objetivo de mejorar la funcionalidad, seguridad y eficiencia de un diseño base, enfocado en aplicaciones de alta fiabilidad como las energías renovables.
+Este repositorio contiene todos los archivos de diseño y la documentación técnica del rediseño y optimización de un **driver de potencia**. El proyecto fue desarrollado íntegramente en **Altium Designer** con el objetivo de mejorar la funcionalidad, seguridad y eficiencia de un diseño base, enfocado en aplicaciones de alta fiabilidad como las energías renovables.
 
 Las mejoras clave incluyen la **integración de compuertas lógicas** para la protección de la etapa de control y una optimización robusta del layout para manejar altas corrientes y minimizar interferencias (EMI).
 
